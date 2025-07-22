@@ -9,7 +9,7 @@ This is a demo project designed to showcase my Excel data analysis and dashboard
 
 ## Table of Content
 
--Understanding the Problem
+# Understanding the Problem
 
 -Project Goal
 
