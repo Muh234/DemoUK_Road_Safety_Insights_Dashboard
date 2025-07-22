@@ -9,21 +9,21 @@ This is a demo project designed to showcase my Excel data analysis and dashboard
 
 ## Table of Content
 
--[Understanding the Problem]-(##Understanding the Problem)
+-Understanding the Problem
 
--[Project Goal]-(##Project Goal)
+-Project Goal
 
--[What I Did]-(##What I Did)
+-What I Did
 
--[Dashboard Overview]-(##Dashboard Overview)
+-Dashboard Overview
 
--[Key Insights]-(##Key Insights)
+-Key Insights
 
--[What’s Inside]-(##What's Inside)
+-What’s Inside
 
--[Tools & Skills Used]-(##Tools & Skills Used)
+-Tools & Skills Used
 
--[Conclusion]-(##Conclusion)
+-Conclusion
 
 ## Understanding the Problem
 Road traffic accidents remain a critical public safety concern in the UK. Factors like road types, speed limits, lighting, and weather conditions all contribute to accident rates. With thousands of records available, it's often challenging for stakeholders—like policymakers and transport authorities—to quickly interpret and act on raw data.
