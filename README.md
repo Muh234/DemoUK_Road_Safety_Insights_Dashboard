@@ -88,7 +88,6 @@ Most accidents occurred on single carriageways and in urban cities like Birmingh
 Surprisingly, most incidents happened in daylight and on dry roads, pointing toward behavioral rather than environmental causes
 
 ## What's Inside
-UK Road Safety Insights Dashboard.xlsx – Interactive Excel dashboard
 
 dashboard_image.png – Screenshot of the final dashboard
 
